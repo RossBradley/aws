@@ -1,6 +1,8 @@
 #!/bin/bash
 ##set -x
 
+sleep 60
+
 setIpInHosts()
 {
   # Discover Public IP for Running ec2 instances
